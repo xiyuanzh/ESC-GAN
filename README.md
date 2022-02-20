@@ -37,11 +37,8 @@ HadCRUT: `data/HadCRUT.nc`, available on Climate Research Unit website: https://
 
 ```
 git clone https://github.com/xiyuanzh/ESC-GAN.git
-
 cd ESC-GAN
-
 mkdir log
-
 mkdir model
 ```
 
